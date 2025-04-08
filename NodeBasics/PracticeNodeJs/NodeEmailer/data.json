@@ -1,0 +1,534 @@
+[
+    {
+      "emoji": "😀",
+      "hexcode": "1f600",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "grinning face",
+      "tags": [
+        "face",
+        "grin",
+        "smile",
+        "happy"
+      ],
+      "shortcodes": [
+        ":smile:"
+      ],
+      "emoticons": [
+        ":D"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 1,
+      "order": 1,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😃",
+      "hexcode": "1f603",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "grinning face with big eyes",
+      "tags": [
+        "face",
+        "mouth",
+        "open",
+        "smile",
+        "eyes",
+        "teeth"
+      ],
+      "shortcodes": [
+        ":smile-with-big-eyes:"
+      ],
+      "emoticons": [
+        ":-D"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 2,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😄",
+      "hexcode": "1f604",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "grinning face with smiling eyes",
+      "tags": [
+        "eye",
+        "face",
+        "mouth",
+        "open",
+        "smile",
+        "happy",
+        "teeth"
+      ],
+      "shortcodes": [
+        ":grin:"
+      ],
+      "emoticons": [
+        "^_^"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 3,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😁",
+      "hexcode": "1f601",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "beaming face with smiling eyes",
+      "tags": [
+        "eye",
+        "face",
+        "grin",
+        "smile",
+        "happy",
+        "teeth",
+        "mouth"
+      ],
+      "shortcodes": [
+        ":grinning:"
+      ],
+      "emoticons": [
+        "*^_^*"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 4,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😆",
+      "hexcode": "1f606",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "grinning squinting face",
+      "tags": [
+        "face",
+        "laugh",
+        "mouth",
+        "satisfied",
+        "smile"
+      ],
+      "shortcodes": [
+        ":laughing:"
+      ],
+      "emoticons": [
+        "X-D"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 5,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😅",
+      "hexcode": "1f605",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "grinning face with sweat",
+      "tags": [
+        "cold",
+        "face",
+        "open",
+        "smile",
+        "sweat",
+        "laugh"
+      ],
+      "shortcodes": [
+        ":grin-sweat:"
+      ],
+      "emoticons": [
+        "^_^;"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 6,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "🙂",
+      "hexcode": "1f642",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "slightly smiling face",
+      "tags": [
+        "face",
+        "smile",
+        "satisfied"
+      ],
+      "shortcodes": [
+        ":slightly-happy:"
+      ],
+      "emoticons": [
+        ":)",
+        ":-)"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 1,
+      "order": 9,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😊",
+      "hexcode": "1f60a",
+      "group": "smileys-emotion",
+      "subgroup": "face-smiling",
+      "annotation": "smiling face with smiling eyes",
+      "tags": [
+        "blush",
+        "eye",
+        "face",
+        "smile",
+        "satisfied"
+      ],
+      "shortcodes": [
+        ":blush:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 13,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😍",
+      "hexcode": "1f60d",
+      "group": "smileys-emotion",
+      "subgroup": "face-affection",
+      "annotation": "smiling face with heart-eyes",
+      "tags": [
+        "eye",
+        "face",
+        "love",
+        "smile",
+        "hearts",
+        "happy"
+      ],
+      "shortcodes": [
+        ":heart-eyes:"
+      ],
+      "emoticons": [
+        "♥_♥"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 16,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "☺️",
+      "hexcode": "263a",
+      "group": "smileys-emotion",
+      "subgroup": "face-affection",
+      "annotation": "smiling face",
+      "tags": [
+        "face",
+        "outlined",
+        "relaxed",
+        "smile",
+        "satisfied"
+      ],
+      "shortcodes": [
+        ":warm-smile:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 21,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😙",
+      "hexcode": "1f619",
+      "group": "smileys-emotion",
+      "subgroup": "face-affection",
+      "annotation": "kissing face with smiling eyes",
+      "tags": [
+        "eye",
+        "face",
+        "kiss",
+        "smile"
+      ],
+      "shortcodes": [
+        ":kissing-smiling-eyes:"
+      ],
+      "emoticons": [
+        "^3^"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 1,
+      "order": 23,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😋",
+      "hexcode": "1f60b",
+      "group": "smileys-emotion",
+      "subgroup": "face-tongue",
+      "annotation": "face savoring food",
+      "tags": [
+        "delicious",
+        "face",
+        "savouring",
+        "smile",
+        "yum",
+        "yummy",
+        "tongue"
+      ],
+      "shortcodes": [
+        ":yum:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 25,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "🤭",
+      "hexcode": "1f92d",
+      "group": "smileys-emotion",
+      "subgroup": "face-hand",
+      "annotation": "face with hand over mouth",
+      "tags": [
+        "whoops",
+        "hand",
+        "mouth",
+        "smile",
+        "giggling",
+        "covering"
+      ],
+      "shortcodes": [
+        ":smiling-eyes-with-hand-over-mouth:",
+        ":chuckling:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 5,
+      "order": 32,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😈",
+      "hexcode": "1f608",
+      "group": "smileys-emotion",
+      "subgroup": "face-negative",
+      "annotation": "smiling face with horns",
+      "tags": [
+        "face",
+        "fairy tale",
+        "fantasy",
+        "horns",
+        "smile",
+        "malicious",
+        "sardonic"
+      ],
+      "shortcodes": [
+        ":imp-smile:"
+      ],
+      "emoticons": [
+        "3:)"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 1,
+      "order": 107,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😺",
+      "hexcode": "1f63a",
+      "group": "smileys-emotion",
+      "subgroup": "cat-face",
+      "annotation": "grinning cat",
+      "tags": [
+        "cat",
+        "face",
+        "grinning",
+        "mouth",
+        "open",
+        "smile"
+      ],
+      "shortcodes": [
+        ":smiley-cat:"
+      ],
+      "emoticons": [
+        ":3"
+      ],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 120,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😸",
+      "hexcode": "1f638",
+      "group": "smileys-emotion",
+      "subgroup": "cat-face",
+      "annotation": "grinning cat with smiling eyes",
+      "tags": [
+        "cat",
+        "eye",
+        "face",
+        "grin",
+        "smile",
+        "grinning"
+      ],
+      "shortcodes": [
+        ":smile-cat:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 121,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😹",
+      "hexcode": "1f639",
+      "group": "smileys-emotion",
+      "subgroup": "cat-face",
+      "annotation": "cat with tears of joy",
+      "tags": [
+        "cat",
+        "face",
+        "joy",
+        "tear",
+        "laughing",
+        "smile"
+      ],
+      "shortcodes": [
+        ":joy-cat:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 122,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😻",
+      "hexcode": "1f63b",
+      "group": "smileys-emotion",
+      "subgroup": "cat-face",
+      "annotation": "smiling cat with heart-eyes",
+      "tags": [
+        "cat",
+        "eye",
+        "face",
+        "heart",
+        "love",
+        "smile",
+        "hearts",
+        "red"
+      ],
+      "shortcodes": [
+        ":heart-eyes-cat:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 123,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    },
+    {
+      "emoji": "😼",
+      "hexcode": "1f63c",
+      "group": "smileys-emotion",
+      "subgroup": "cat-face",
+      "annotation": "cat with wry smile",
+      "tags": [
+        "cat",
+        "face",
+        "ironic",
+        "smile",
+        "wry"
+      ],
+      "shortcodes": [
+        ":smirk-cat:"
+      ],
+      "emoticons": [],
+      "directional": false,
+      "variation": false,
+      "variationBase": null,
+      "unicode": 0.6,
+      "order": 124,
+      "skintone": null,
+      "skintoneCombination": null,
+      "skintoneBase": null
+    }
+  ]
