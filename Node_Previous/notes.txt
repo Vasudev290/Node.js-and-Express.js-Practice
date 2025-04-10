@@ -1,0 +1,92 @@
+Node js :-
+---------
+While JavaScript and Node. js both use the same language, 
+they serve different purposes in the web development ecosystem. 
+JavaScript is primarily used for client-side programming, while Node. 
+js allows developers to build server-side applications using JavaScript.
+
+why to use Node.js?
+--------------------
+* Fast & highly scalable
+* Asynchonous & Non-blocking
+* Light weight and efficient to create HTTP Server
+* Same JS programming language for both client & srever
+* Very popular for server-side application devlop
+
+Module:-
+* Collection js file
+*  Each js file have collection of methods  and each method can have parameter.
+
+installiation command:-
+ npm init -y
+ npm install express
+
+ Node.js - Collection of 3 types of module:-
+ *In-bulid module / Core Module
+ * 3rd party Module
+ * Custom Module
+
+Core Module:-
+FS, OS, Path, http
+
+3rd Party Module:-
+Express, MongoDB, Mongooes, Url, Mysql
+
+NPM:-
+*Centralized Repo for js library
+*Used to install 3rd party module
+*Installed module - inside node-module folder  
+
+
+What is Nodemon ?
+
+Nodemon is a tool that helps develop node.js based 
+application by automatically vestering the node application
+when file changes in the direction.
+
+What is json web token ?
+
+JWT is an open standard (RFC : 7519) that defines a compact and self-contained
+way for securly transmitting information between parties as a json object.
+
+What is Express ?
+
+-Node js web framework.
+-Opensource framework devloped and maintained by Node.js foundation.
+-Express is minimal, fast and flixible node.js web framework, 
+ that provides set of featuers for web development.
+-Impliment routing, HTTP Server, protocal, Url
+-npm install express
+***Hapi.js - Best Alternative for express
+
+Why Express ?
+
+-Easily set the backend Api.
+-It is very flixible
+
+Node js Api:-
+
+SQL:- (Relation datbase management system)
+
+-We are storing data in the form of tables(Rows and colums)
+-Schema based
+-Memory wastage very highly
+
+Problem Statement:-
+------------------
+-New method to manage the flood of data.
+-Alternative to relation database management system - sql database
+-different from traditional database
+
+What is database ;-
+-physical data container
+-tables
+-rows and colums
+
+MongoDB (Kind of No SQL);-
+Opensource document based database management system tool that store data in json like format
+
+featuers of MongoDB :-
+-fast -json like -less Memory wastage -Schema less database(optional)
+-highly scalable, flixible and distributed
+-application driven database
