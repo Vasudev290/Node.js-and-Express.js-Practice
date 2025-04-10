@@ -4,6 +4,10 @@ const EmployeeModel = require("../models/Employee");
 const createEmployee = async (req, res) => {
   try {
     const { name, age, email, number, city } = req.body;
+    const exist = await EmployeeModel.findOne({email})
+    if(exist){
+      return res.status(404).json({ message: "Employee Already Existed!"})
+    }
     const employee = new EmployeeModel({
       name,
       age,
