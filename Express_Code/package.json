@@ -1,0 +1,16 @@
+{
+  "name": "express_code",
+  "version": "1.0.0",
+  "description": "This is the Second Express Code Practice",
+  "license": "ISC",
+  "author": "Vasu Dev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
