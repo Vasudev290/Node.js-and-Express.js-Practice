@@ -5,9 +5,10 @@
   "license": "ISC",
   "author": "Vasu Dev",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "nodemon server.js"
   },
   "dependencies": {
     "express": "^5.1.0",
